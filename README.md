@@ -14,3 +14,8 @@ Forecasting the data of next 15 days that can drive strategic decision making an
 --> Most of the payment is done by cash on delivery(COD) mode. (~43%)
 
 --> Customers prefer Standard class as a ship mode. (~0.33M)
+
+### FINAL CONCLUSION --
+-->Apply offers/coupons on online payment method.
+
+-->Some strategies should be made to increase the sales in the month of April as it is the month of minimum profit.
